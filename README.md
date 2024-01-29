@@ -1,4 +1,4 @@
-yup this is the input viewer grimtin and i made. (ornej also helped with the design/looks)
+yup this is the input viewer that was gatekept by me(mari), ornej, grimtin and halfjew that grimtin and i made. (ornej also helped with the design/looks)
 
 discord: marikogh
 
