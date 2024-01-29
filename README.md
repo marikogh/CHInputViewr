@@ -1,4 +1,4 @@
-yup this is the input viewer grimtin and i made.
+yup this is the input viewer grimtin and i made. (ornej also helped with the design/looks)
 
 discord: marikogh
 
