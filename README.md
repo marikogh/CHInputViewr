@@ -13,5 +13,5 @@ A: you are likely using guitar config/santroller this isnt a issue with the inpu
 
 Q: why are all the buttons nonstop pressed?
 
-A: you have not calibrated the controller.. press the "+" key on your keyboard and then after red text disappears you con proceed to bind your buttons.
+A: you have not calibrated the controller.. press the "+" key on your keyboard and then after red text disappears you can proceed to bind your buttons.
 
