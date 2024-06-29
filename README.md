@@ -3,7 +3,7 @@ yup this is the input viewer that was gatekept by me(mari), ornej, grimtin and h
 discord: marikogh
 
 since this is just easier
-DL: https://drive.google.com/file/d/1CFrUqn0mzQrrS72wxDq7rJor1FDQmKSF/view?usp=sharing
+DL: https://drive.google.com/file/d/1jilX_eFFAJFSiSFCokowmExG2KlxuFDL/view?usp=sharing
 
 COMMON QUESTIONS/ANSWERS
 
