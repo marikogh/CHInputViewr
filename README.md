@@ -7,11 +7,12 @@ DL: https://drive.google.com/file/d/1jilX_eFFAJFSiSFCokowmExG2KlxuFDL/view?usp=s
 
 COMMON QUESTIONS/ANSWERS
 
-Q: why do my strums work as the same button?
+Q1: why do my strums work as the same button?
 
-A: you are likely using guitar config/santroller this isnt a issue with the input display its a issue with how these controllers bind strums to the same hat switch.. i suggest using the code listed on my github.
+A1: you are likely using guitar config/santroller this isnt a issue with the input display its a issue with how these controllers bind strums to the same hat switch..
+FIX1: https://www.youtube.com/watch?v=Y6fxw2H2bbo
 
-Q: why are all the buttons nonstop pressed?
+Q1: why are all the buttons nonstop pressed?
 
-A: you have not calibrated the controller.. press the "+" key on your keyboard and then after red text disappears you can proceed to bind your buttons.
+A2: you have not calibrated the controller.. press the "+" key on your keyboard and then after red text disappears you can proceed to bind your buttons.
 
